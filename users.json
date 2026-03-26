@@ -1,0 +1,17 @@
+[
+  {
+    "username": "john_doe",
+    "password": "password123",
+    "monthlyBudget": 25000.0
+  },
+  {
+    "username": "jane_smith",
+    "password": "secure456",
+    "monthlyBudget": 35000.0
+  },
+  {
+    "username": "demo_user",
+    "password": "demo123",
+    "monthlyBudget": 20000.0
+  }
+]
