@@ -1,0 +1,66 @@
+[
+  {
+    "id": "a1b2c3d4",
+    "username": "john_doe",
+    "amount": 850.0,
+    "category": "FOOD",
+    "date": "2024-10-15",
+    "note": "Lunch at restaurant"
+  },
+  {
+    "id": "e5f6g7h8",
+    "username": "john_doe",
+    "amount": 1200.0,
+    "category": "SHOPPING",
+    "date": "2024-10-14",
+    "note": "Clothes from mall"
+  },
+  {
+    "id": "i9j0k1l2",
+    "username": "john_doe",
+    "amount": 3200.0,
+    "category": "TRAVEL",
+    "date": "2024-10-12",
+    "note": "Weekend trip to hills"
+  },
+  {
+    "id": "m3n4o5p6",
+    "username": "john_doe",
+    "amount": 1800.0,
+    "category": "BILLS",
+    "date": "2024-10-10",
+    "note": "Electricity bill"
+  },
+  {
+    "id": "q7r8s9t0",
+    "username": "john_doe",
+    "amount": 450.0,
+    "category": "FOOD",
+    "date": "2024-10-09",
+    "note": "Groceries"
+  },
+  {
+    "id": "u1v2w3x4",
+    "username": "john_doe",
+    "amount": 950.0,
+    "category": "ENTERTAINMENT",
+    "date": "2024-10-08",
+    "note": "Movie tickets"
+  },
+  {
+    "id": "y5z6a7b8",
+    "username": "jane_smith",
+    "amount": 2200.0,
+    "category": "SHOPPING",
+    "date": "2024-10-16",
+    "note": "Electronics"
+  },
+  {
+    "id": "c9d0e1f2",
+    "username": "demo_user",
+    "amount": 750.0,
+    "category": "HEALTH",
+    "date": "2024-10-17",
+    "note": "Gym membership"
+  }
+]
